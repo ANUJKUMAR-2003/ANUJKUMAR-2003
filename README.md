@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Anuj Kumar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning reactJS
+- 🌱 I’m currently learning Django
+- 
 
 
 
